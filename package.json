@@ -1,7 +1,7 @@
 {
   "name": "jonahbot",
   "version": "1.0.0",
-  "description": "Tags Jonah Langlieb in Swarthmore College posts.",
+  "description": "A bot for tagging Jonah Langlieb in Swarthmore College posts.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"

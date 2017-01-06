@@ -1,14 +1,14 @@
 {
   "name": "jonahbot",
   "version": "1.0.0",
-  "description": "Tags Jonah Langlieb in Swarthmore posts.",
+  "description": "Tags Jonah Langlieb in Swarthmore College posts.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AstroCB/"
+    "url": "https://github.com/AstroCB/JonahBot"
   },
   "author": "Cameron Bernhardt (AstroCB)",
   "license": "MIT",
